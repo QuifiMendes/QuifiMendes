@@ -21,9 +21,10 @@ I'm a passionate front-end developer focused on building responsive, modern, and
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=tokyonight" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=tokyonight" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=QuifiMendes&show_icons=true&theme=tokyonight" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuifiMendes&layout=compact&theme=tokyonight" width="49%"/>
 </p>
+
 
 
 
