@@ -18,27 +18,14 @@ I'm a passionate front-end developer focused on building responsive, modern, and
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
   
-## 📈 GitHub Stats
+### 📊 GitHub Analytics  
+![Quifi Mucua GitHub stats](https://github-readme-stats.vercel.app/api?username=QuifiMendes&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuifiMendeslo&layout=compact&theme=radical)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=QuifiMendes&show_icons=true&theme=tokyonight" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuifiMendes&layout=compact&theme=tokyonight" width="49%"/>
-</p>
+---
 
-
-
-
-## 📬 Contact
-
+### 📫 Let's Connect  
 <p>
-  <a href="mailto:your.email@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/30/EA4335/gmail.png" alt="Gmail" style="margin-right: 8px;" />
-  </a>
-  <a href="https://www.linkedin.com/in/quifi-mucua" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/30/0A66C2/linkedin.png" alt="LinkedIn" style="margin-right: 8px;" />
-  </a>
-  <a href="https://github.com/your-username" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" />
-  </a>
+  <a href="https://github.com/QuifiMendes" target="_blank"><img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" alt="GitHub"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/quifi-samuel-mucua-7478a4363/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="LinkedIn"></a>&nbsp;
+  <a href="mailto:quifimendesjr@gmail.com><img src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail" alt="Email"></a>&nbsp;
 </p>
-
