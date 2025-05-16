@@ -19,7 +19,7 @@ I'm a passionate front-end developer focused on building responsive, modern, and
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
   
 ### 📊 GitHub Analytics  
-![Quifi Mucua GitHub stats](https://github-readme-stats.vercel.app/api?username=QuifiMendes&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuifiMendeslo&layout=compact&theme=radical)
+![Quifi Mucua GitHub stats](https://github-readme-stats.vercel.app/api?username=QuifiMendes&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuifiMendes&layout=compact&theme=radical)
 
 ---
 
