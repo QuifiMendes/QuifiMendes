@@ -27,5 +27,8 @@ I'm a passionate front-end developer focused on building responsive, modern, and
 <p>
   <a href="https://github.com/QuifiMendes" target="_blank"><img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" alt="GitHub"></a>&nbsp;
   <a href="https://www.linkedin.com/in/quifi-samuel-mucua-7478a4363/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="LinkedIn"></a>&nbsp;
-  <a href="mailto:quifimendesjr@gmail.com><img src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail" alt="Email"></a>&nbsp;
+    <a href="mailto:your.email@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/30/EA4335/gmail.png" alt="Gmail" style="margin-right: 8px;" />
+  </a>
+
 </p>
